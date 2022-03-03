@@ -1,0 +1,216 @@
+@keyframes maskRound {
+  0% {
+    mask:radial-gradient(farthest-side at center, #000 0%, transparent 0%, transparent 0%);
+    opacity: .1;
+    -webkit-mask:radial-gradient(farthest-side at center, #000 0%, transparent 0%, transparent 0%);
+  }
+  1% {
+    mask:radial-gradient(farthest-side at center, #000 2%, transparent 2.5%, transparent 2.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 2%, transparent 2.5%, transparent 2.5%);
+  }
+  2% {
+    mask:radial-gradient(farthest-side at center, #000 4%, transparent 5%, transparent 5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 4%, transparent 5%, transparent 5%);
+  }
+  3% {
+    mask:radial-gradient(farthest-side at center, #000 6%, transparent 7.5%, transparent 7.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 6%, transparent 7.5%, transparent 7.5%);
+  }
+  4% {
+    mask:radial-gradient(farthest-side at center, #000 8%, transparent 10%, transparent 10%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 8%, transparent 10%, transparent 10%);
+  }
+  5% {
+    mask:radial-gradient(farthest-side at center, #000 10%, transparent 12.5%, transparent 12.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 10%, transparent 12.5%, transparent 12.5%);
+  }
+  6% {
+    mask:radial-gradient(farthest-side at center, #000 12%, transparent 15%, transparent 15%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 12%, transparent 15%, transparent 15%);
+  }
+  7% {
+    mask:radial-gradient(farthest-side at center, #000 14%, transparent 17.5%, transparent 17.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 14%, transparent 17.5%, transparent 17.5%);
+  }
+  8% {
+    mask:radial-gradient(farthest-side at center, #000 16%, transparent 20%, transparent 20%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 16%, transparent 20%, transparent 20%);
+  }
+  9% {
+    mask:radial-gradient(farthest-side at center, #000 18%, transparent 22.5%, transparent 22.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 18%, transparent 22.5%, transparent 22.5%);
+  }
+  10% {
+    mask:radial-gradient(farthest-side at center, #000 20%, transparent 25%, transparent 25%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 20%, transparent 25%, transparent 25%);
+    opacity: .3;
+  }
+  11% {
+    mask:radial-gradient(farthest-side at center, #000 22%, transparent 27.5%, transparent 27.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 22%, transparent 27.5%, transparent 27.5%);
+  }
+  12% {
+    mask:radial-gradient(farthest-side at center, #000 24%, transparent 30%, transparent 30%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 24%, transparent 30%, transparent 30%);
+  }
+  13% {
+    mask:radial-gradient(farthest-side at center, #000 26%, transparent 32.5%, transparent 32.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 26%, transparent 32.5%, transparent 32.5%);
+  }
+  14% {
+    mask:radial-gradient(farthest-side at center, #000 28%, transparent 35%, transparent 35%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 28%, transparent 35%, transparent 35%);
+  }
+  15% {
+    mask:radial-gradient(farthest-side at center, #000 30%, transparent 37.5%, transparent 37.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 30%, transparent 37.5%, transparent 37.5%);
+  }
+  16% {
+    mask:radial-gradient(farthest-side at center, #000 32%, transparent 40%, transparent 40%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 32%, transparent 40%, transparent 40%);
+  }
+  17% {
+    mask:radial-gradient(farthest-side at center, #000 34%, transparent 42.5%, transparent 42.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 34%, transparent 42.5%, transparent 42.5%);
+  }
+  18% {
+    mask:radial-gradient(farthest-side at center, #000 36%, transparent 45%, transparent 45%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 36%, transparent 45%, transparent 45%);
+  }
+  19% {
+    mask:radial-gradient(farthest-side at center, #000 38%, transparent 47.5%, transparent 47.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 38%, transparent 47.5%, transparent 47.5%);
+  }
+  20% {
+    mask:radial-gradient(farthest-side at center, #000 40%, transparent 50%, transparent 50%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 40%, transparent 50%, transparent 50%);
+  }
+  21% {
+    mask:radial-gradient(farthest-side at center, #000 42%, transparent 52.5%, transparent 52.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 42%, transparent 52.5%, transparent 52.5%);
+  }
+  22% {
+    mask:radial-gradient(farthest-side at center, #000 44%, transparent 55%, transparent 55%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 44%, transparent 55%, transparent 55%);
+  }
+  23% {
+    mask:radial-gradient(farthest-side at center, #000 46%, transparent 57.5%, transparent 57.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 46%, transparent 57.5%, transparent 57.5%);
+  }
+  24% {
+    mask:radial-gradient(farthest-side at center, #000 48%, transparent 60%, transparent 60%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 48%, transparent 60%, transparent 60%);
+  }
+  25% {
+    mask:radial-gradient(farthest-side at center, #000 50%, transparent 62.5%, transparent 62.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 50%, transparent 62.5%, transparent 62.5%);
+  }
+  26% {
+    mask:radial-gradient(farthest-side at center, #000 52%, transparent 65%, transparent 65%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 52%, transparent 65%, transparent 65%);
+  }
+  27% {
+    mask:radial-gradient(farthest-side at center, #000 54%, transparent 67.5%, transparent 67.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 54%, transparent 67.5%, transparent 67.5%);
+  }
+  28% {
+    mask:radial-gradient(farthest-side at center, #000 56%, transparent 70%, transparent 70%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 56%, transparent 70%, transparent 70%);
+  }
+  29% {
+    mask:radial-gradient(farthest-side at center, #000 58%, transparent 72.5%, transparent 72.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 58%, transparent 72.5%, transparent 72.5%);
+  }
+  30% {
+    mask:radial-gradient(farthest-side at center, #000 60%, transparent 75%, transparent 75%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 60%, transparent 75%, transparent 75%);
+  }
+  31% {
+    mask:radial-gradient(farthest-side at center, #000 62%, transparent 77.5%, transparent 77.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 62%, transparent 77.5%, transparent 77.5%);
+  }
+  32% {
+    mask:radial-gradient(farthest-side at center, #000 64%, transparent 80%, transparent 80%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 64%, transparent 80%, transparent 80%);
+  }
+  33% {
+    mask:radial-gradient(farthest-side at center, #000 66%, transparent 82.5%, transparent 82.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 66%, transparent 82.5%, transparent 82.5%);
+  }
+  34% {
+    mask:radial-gradient(farthest-side at center, #000 68%, transparent 85%, transparent 85%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 68%, transparent 85%, transparent 85%);
+  }
+  35% {
+    mask:radial-gradient(farthest-side at center, #000 70%, transparent 87.5%, transparent 87.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 70%, transparent 87.5%, transparent 87.5%);
+  }
+  36% {
+    mask:radial-gradient(farthest-side at center, #000 72%, transparent 90%, transparent 90%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 72%, transparent 90%, transparent 90%);
+  }
+  37% {
+    mask:radial-gradient(farthest-side at center, #000 74%, transparent 92.5%, transparent 92.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 74%, transparent 92.5%, transparent 92.5%);
+  }
+  38% {
+    mask:radial-gradient(farthest-side at center, #000 76%, transparent 95%, transparent 95%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 76%, transparent 95%, transparent 95%);
+  }
+  39% {
+    mask:radial-gradient(farthest-side at center, #000 78%, transparent 97.5%, transparent 97.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 78%, transparent 97.5%, transparent 97.5%);
+  }
+  40% {
+    mask:radial-gradient(farthest-side at center, #000 80%, transparent 100%, transparent 100%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 80%, transparent 100%, transparent 100%);
+  }
+  41% {
+    mask:radial-gradient(farthest-side at center, #000 82%, transparent 102.5%, transparent 102.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 82%, transparent 102.5%, transparent 102.5%);
+  }
+  42% {
+    mask:radial-gradient(farthest-side at center, #000 84%, transparent 105%, transparent 105%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 84%, transparent 105%, transparent 105%);
+  }
+  43% {
+    mask:radial-gradient(farthest-side at center, #000 86%, transparent 107.5%, transparent 107.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 86%, transparent 107.5%, transparent 107.5%);
+  }
+  44% {
+    mask:radial-gradient(farthest-side at center, #000 88%, transparent 110%, transparent 110%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 88%, transparent 110%, transparent 110%);
+  }
+  45% {
+    mask:radial-gradient(farthest-side at center, #000 90%, transparent 112.5%, transparent 112.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 90%, transparent 112.5%, transparent 112.5%);
+  }
+  46% {
+    mask:radial-gradient(farthest-side at center, #000 92%, transparent 115%, transparent 115%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 92%, transparent 115%, transparent 115%);
+  }
+  47% {
+    mask:radial-gradient(farthest-side at center, #000 94%, transparent 117.5%, transparent 117.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 94%, transparent 117.5%, transparent 117.5%);
+  }
+  48% {
+    mask:radial-gradient(farthest-side at center, #000 96%, transparent 120%, transparent 120%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 96%, transparent 120%, transparent 120%);
+  }
+  49% {
+    mask:radial-gradient(farthest-side at center, #000 98%, transparent 122.5%, transparent 122.5%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 98%, transparent 122.5%, transparent 122.5%);
+  }
+  50% {
+    mask:radial-gradient(farthest-side at center, #000 100%, transparent 125%, transparent 125%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 100%, transparent 125%, transparent 125%);
+  }
+  90%{
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    mask:radial-gradient(farthest-side at center, #000 ， #000 100%);
+    -webkit-mask:radial-gradient(farthest-side at center, #000 ， #000 100%);
+  }
+}
